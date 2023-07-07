@@ -1,4 +1,4 @@
-# snapshotvoter
+# snapshotvoter1
 
 Скрипт на node.js для off-chain голосования на snapshot.org
 
